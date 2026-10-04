@@ -1,12 +1,12 @@
-Web Scraping Project
+# Web Scraping Project
 
-📌 Project Overview
+##📌 Project Overview
 
 This project demonstrates how to collect data from a website using Python web scraping techniques.
 
 The scraped data is extracted from web pages, processed, and stored in a structured format for further analysis.
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 - Python
 - Requests
@@ -15,7 +15,7 @@ The scraped data is extracted from web pages, processed, and stored in a structu
 - Jupyter Notebook
 - Git & GitHub
 
-🎯 Project Objectives
+##🎯 Project Objectives
 
 - Understand the basics of web scraping
 - Extract useful information from web pages
@@ -24,7 +24,7 @@ The scraped data is extracted from web pages, processed, and stored in a structu
 - Practice data cleaning and processing using Pandas
 - Upload and manage the project using GitHub
 
-🔍 Web Scraping Process
+## 🔍 Web Scraping Process
 
 The project follows these basic steps:
 
@@ -36,7 +36,7 @@ The project follows these basic steps:
 6. Process the data using Pandas.
 7. Save the final data for further use.
 
-📂 Project Structure
+## 📂 Project Structure
 
 Web Scraping Project/
 │
@@ -46,7 +46,7 @@ Web Scraping Project/
 ├── README.md
 └── requirements.txt
 
-🚀 How to Run the Project
+## 🚀 How to Run the Project
 
 1. Clone the Repository
 
@@ -62,11 +62,11 @@ jupyter notebook
 
 Open the web scraping notebook and run the cells step by step.
 
-📊 Output
+### 📊 Output
 
 The scraped information is collected and organized into a structured dataset that can be used for further analysis or visualization.
 
-📚 Learning Outcomes
+##📚 Learning Outcomes
 
 Through this project, I learned:
 
